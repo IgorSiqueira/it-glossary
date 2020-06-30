@@ -35,7 +35,7 @@ O material será subdividido em três níveis.
 - SCSS- Sassy CSS
 - TDD - Test Driven Development (desenvolvimento orientado a teste)
 - UI - User interface (interface do usuário)
-- UX - User experience (experiência do usuário)
+- UX - User experience (experiência do usuário)laravel
 - VSC - Visual Studio Code (editor de texto)
 
 
@@ -197,7 +197,7 @@ O material será subdividido em três níveis.
  - **CakePHP** -  É uma estrutura moderna e é adequada para aplicativos da web comerciais. Validação de formulário, prevenção de injeção de SQL, boa documentação, proteção contra falsificação de solicitação entre sites (CSRF), prevenção de scripts entre sites (XSS) são recursos imbatíveis do CakePHP.
  - **Codeigniter** - é um dos frameworks mais antigos, mas é simples e poderoso. Ele pode ser facilmente instalado e requer configuração mínima do usuário. Funciona perfeitamente em quase todas as plataformas de hospedagem compartilhada e dedicada.
  - **FuelPHP** - é uma estrutura PHP modular, extensível e flexível. A estrutura de pilha completa suporta o padrão MVC, bem como sua versão evoluída HMVC (Model Hierarchical Model-View-Controller) no nível da arquitetura. Ele soluciona problemas de segurança, fornecendo recursos como filtragem de entrada e URI e codificação de saída. Ele vem com sua própria estrutura de autenticação, com muitos outros recursos sofisticados e com boa documentação.
- - **Laravel** - Um framework PHP de aplicativos da web com sintaxe expressiva e elegante. Tem como objetivo a construção ágil de softwares utilizando um arquitetura MVC (Model - View -Controller). O mesmo possui uma excelente comunidade ativa, e seus desenvolvedores são muito focados na construção de um ecossistema.
+ - **Laravel** - Um framework que utiliza como base a linguagem PHP para construção de aplicativos da web com sintaxe expressiva e elegante. Tem como objetivo à construção ágil de softwares utilizando uma arquitetura MVC (Model - View -Controller). O mesmo possui uma excelente comunidade ativa, e seus desenvolvedores são muito focados na construção de um ecossistema geral.
  - **Phalcon** - difere comparativamente com outros frameworks PHP, pois é baseado no estilo de codificação C e C ++. Como o Phalcon é entregue como uma extensão C, sua arquitetura é otimizada em níveis baixos, o que reduz significativamente a sobrecarga típica de aplicativos baseados em MVC. O Phalcon é carregado com recursos excepcionais, como gerenciamento de ativos, carregador automático universal, tradução, cache, segurança e muito mais.
  - **PHPixie** - Implementa o padrão de design do HMVC semelhante ao FuelPHP e é construído usando componentes independentes que podem ser usados ​​sem a própria estrutura. 
  - **Simply** - é usada para desenvolver APIs e serviços RESTful. Apesar de ter um design minimalista, o Slim possui recursos avançados, como cache HTTP do lado do cliente, roteamento de sessão e cookie, roteamento de URL e suporte para mensagens flash em solicitações HTTP. É excelente para pequenas aplicações web onde uma estrutura PHP de pilha completa não é realmente necessária.
